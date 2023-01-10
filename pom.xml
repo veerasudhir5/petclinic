@@ -443,6 +443,10 @@
                                 <include>petclinic.less</include>
                             </includes>
                         </configuration>
+                        <properties>
+                              <sonar.organization>veerasudhir5</sonar.organization>
+                              <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+                        </properties>
                         <executions>
                             <execution>
                                 <goals>
